@@ -13,7 +13,6 @@ This application captures face images, trains a recognition model, and automatic
 - Prevents duplicate attendance for the same person on the same day
 - Stores attendance records in CSV format
 - Simple, lightweight, and works offline
-- No deep learning or web framework required
 
 ---
 
